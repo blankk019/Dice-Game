@@ -1,2 +1,2 @@
 # Javascriptprojects
-This repo is for future and current JS projects developed on my journery to become a front-end developer , the projects are easy to intermediate level and their purpose is to implement my knowledge of javascript
+this is a dice game that automatically works to see the winner , feel free to pick a player with your friends and use it for whatever :D
